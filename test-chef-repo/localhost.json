@@ -1,0 +1,7 @@
+//chef-repo/localhost.json
+{
+	"run_list":[
+		"recipe[hello]"
+	]
+}
+
